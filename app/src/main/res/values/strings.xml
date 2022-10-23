@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MobileDeviceAssignments</string>
+    <string name="add_food_btn">Add Food</string>
+    <string name="decide_food_btn">Decide!</string>
+    <string name="input_food_placeholder">add new food...</string>
+</resources>
