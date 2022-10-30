@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">TabLayoutAssignment</string>
+    <string name="addBtn">Add</string>
+    <string name="version_placeholder">Enter Android Version</string>
+    <string name="name_placeholder">Enter Android Code Name</string>
+    <string name="version">Version</string>
+    <string name="code">Code Name</string>
+    <string name="default1">Android 9.0</string>
+    <string name="default2">Android 8.0</string>
+    <string name="pie">Pie</string>
+    <string name="oreo">Oreo</string>
+</resources>
