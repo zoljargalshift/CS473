@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">RecyclerViewListAndQuiz</string>
+    <string name="no_acct">Don\'t have an account?</string>
+    <string name="new_acct">Create a new account</string>
+    <string name="email">Email address (required)</string>
+    <string name="sign_in_btn">Sign In</string>
+    <string name="password">Password (required)</string>
+    <string name="sign_in_info">Sign in to your account</string>
+    <string name="forgot_pass">Forgot password?</string>
+    <string name="electronic">Electronics</string>
+    <string name="clothes">Clothing</string>
+    <string name="beauty">Beauty</string>
+    <string name="food">Food</string>
+    <string name="firstname">First name*</string>
+    <string name="lastname">Last name*</string>
+    <string name="register_email">Email address*</string>
+    <string name="register_password">Password*</string>
+    <string name="required">* required field</string>
+    <string name="create">Create your account</string>
+    <string name="register">Create Account</string>
+    <string name="task1">Task 1: Quiz App</string>
+    <string name="task2">Task 2: Shopping</string>
+    <string name="task3">Task 3: Recycler View</string>
+    <string name="str_welcome">Welcome zoloo@gmail.com</string>
+    <string name="question1">Which property can be used to find the length of a string?</string>
+    <string name="answer1">The length property</string>
+    <string name="answer2">The size property</string>
+    <string name="answer3">The len property</string>
+    <string name="question2">Which of the following extension methods are used in Kotlin?</string>
+    <string name="question2_answer1">Buffer reader ()</string>
+    <string name="question2_answer2">Read each line ()</string>
+    <string name="question2_answer3">Drop each line ()</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string-array name="clothes_list">
+        <item>Sweater</item>
+        <item>Dress</item>
+        <item>Hoodies</item>
+        <item>T-shirt</item>
+        <item>Flip-flops</item>
+        <item>Shorts</item>
+        <item>Skirt</item>
+        <item>Jeans</item>
+        <item>Shoes</item>
+        <item>Coat</item>
+        <item>High heels</item>
+        <item>Suit</item>
+        <item>Cap</item>
+        <item>Socks</item>
+        <item>Shirt</item>
+        <item>Bra</item>
+        <item>Scarf</item>
+        <item>Swimsuit</item>
+        <item>Hat</item>
+        <item>Gloves</item>
+        <item>Jacket</item>
+        <item>Long coat</item>
+        <item>Boots</item>
+        <item>Sunglasses</item>
+        <item>Tie</item>
+        <item>Polo shirt</item>
+        <item>Leather jackets</item>
+    </string-array>
+    <string-array name="electronic_list">
+        <item>Cell Phones</item>
+        <item>Digital Cameras</item>
+        <item>Watch Clocks</item>
+        <item>Radios</item>
+        <item>Televisions</item>
+        <item>Smartphones</item>
+        <item>Desktop/Laptop</item>
+        <item>Tablet</item>
+        <item>Smart TV</item>
+        <item>Smartwatch</item>
+        <item>Google Glass</item>
+        <item>Raspberry Pi</item>
+        <item>DJI Phantom</item>
+        <item>Makerbot Replicator</item>
+        <item>Oculus Rift</item>
+        <item>Apple iBook</item>
+        <item>Palm Pilot</item>
+        <item>Toshiba DVD Player</item>
+        <item>Commodore 64</item>
+        <item>TomTom GPS</item>
+        <item>Magic Wand</item>
+    </string-array>
+    <string-array name="beauty_list">
+        <item>Caudalie</item>
+        <item>Cerave</item>
+        <item>Chanel</item>
+        <item>Chantecaille</item>
+        <item>Charlotte Tilbury</item>
+        <item>Ciate London</item>
+        <item>Clinique</item>
+        <item>Coco and Eve</item>
+        <item>COLOR WOW</item>
+        <item>Coloured Raine</item>
+        <item>Colourpop</item>
+        <item>Coola</item>
+        <item>Danessa Myricks Beauty</item>
+        <item>Delilah</item>
+        <item>Dennis Gross</item>
+        <item>Dermalogica</item>
+        <item>Dior Beauty</item>
+        <item>Dominique Cosmetics</item>
+        <item>MAC Cosmetics</item>
+        <item>Make Up For Ever</item>
+        <item>Makeup By Mario </item>
+        <item>Makeup Eraser</item>
+        <item>Marc Jacobs</item>
+        <item>Mario Badescu</item>
+        <item>Maybelline</item>
+        <item>Melt Cosmetics</item>
+        <item>MERIT</item>
+        <item>Milk Makeup</item>
+        <item>MIZON</item>
+        <item>Moira Beauty</item>
+        <item>Moroccanoil</item>
+        <item>Morphe</item>
+    </string-array>
+    <string-array name="food_list">
+        <item>Acorn squash</item>
+        <item>Adzuki bean paste</item>
+        <item>Adzuki beans</item>
+        <item>Aged Japanese kurozu</item>
+        <item>Albacore tuna</item>
+        <item>Alcohol</item>
+        <item>Ale</item>
+        <item>Alfalfa sprouts</item>
+        <item>Algae</item>
+        <item>Almond milk</item>
+        <item>Almond paste</item>
+        <item>Almonds</item>
+        <item>Ancho chili powder</item>
+        <item>Anchovies</item>
+        <item>Anchovy paste</item>
+        <item>Angus beef</item>
+        <item>Apple juice</item>
+        <item>Apples</item>
+        <item>Apricots</item>
+        <item>Apricots, Japanese</item>
+        <item>Arborio rice</item>
+        <item>Arctic char</item>
+        <item>Artichoke, Jerusalem</item>
+        <item>Artichokes</item>
+        <item>Arugula</item>
+        <item>Asian greens</item>
+        <item>Asparagus</item>
+        <item>Asparagus, Chinese</item>
+        <item>Autumn crocus</item>
+        <item>Avocado oil</item>
+        <item>Avocados</item>
+        <item>Bacon</item>
+        <item>Balsamic vinegar</item>
+        <item>Bananas</item>
+        <item>Barbecued meat</item>
+        <item>Basil</item>
+        <item>Bean curd</item>
+        <item>Beef</item>
+        <item>Beer</item>
+    </string-array>
+</resources>
