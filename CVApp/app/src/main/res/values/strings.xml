@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CV app</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="skills">Skills</string>
+    <string name="works">Works</string>
+    <string name="projects">Projects</string>
+    <string name="educations">Education</string>
+    <string name="certificates">Certificates</string>
+    <string name="title">Title:</string>
+
+</resources>

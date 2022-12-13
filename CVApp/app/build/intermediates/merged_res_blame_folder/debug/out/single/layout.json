@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item.xml",
+        "source": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\about.xml",
+        "source": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_small.xml",
+        "source": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\src\\main\\res\\layout\\item_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_web_view.xml",
+        "source": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\src\\main\\res\\layout\\activity_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\contact.xml",
+        "source": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\src\\main\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\home.xml",
+        "source": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\work.xml",
+        "source": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\CVApp\\app\\src\\main\\res\\layout\\work.xml"
+    }
+]
