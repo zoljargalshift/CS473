@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\QuizApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_result.xml",
+        "source": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\QuizApp\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\QuizApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_quiz1.xml",
+        "source": "C:\\Users\\zoljargalbyambasuren\\AndroidStudioProjects\\MobileDeviceAssignments\\QuizApp\\app\\src\\main\\res\\layout\\activity_quiz1.xml"
+    }
+]

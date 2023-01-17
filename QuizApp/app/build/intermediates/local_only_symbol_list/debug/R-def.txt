@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorBlack
+color colorPrimary
+color colorPrimaryDark
+color colorWhite
+drawable ic_filter
+drawable ic_launcher
+id action_settings
+id menu_settings
+id nextbutton
+id radioGroup1
+id radiobutton1
+id radiobutton2
+id radiobutton3
+id ratingBar1
+id textResult
+id textView1
+layout activity_quiz1
+layout activity_result
+menu activity_quiz1
+menu activity_result
+string app_name
+string menu_settings
+string settings_menu_item
+string str_next
+string title_activity_result
+style AppTheme

@@ -1,0 +1,60 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.miu.curriculumvitae"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:7:5-27:19
+14        android:allowBackup="true"
+14-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.6.0] C:\Users\zoljargalbyambasuren\.gradle\caches\transforms-3\1f3eddffec1453cdfbb93a2701207172\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:9:9-45
+18        android:label="@string/app_name"
+18-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:10:9-41
+19        android:supportsRtl="true"
+19-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:11:9-35
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:12:9-40
+22        <activity
+22-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:13:9-22:20
+23            android:name="com.miu.curriculumvitae.QuizActivity"
+23-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:14:13-64
+24            android:exported="true"
+24-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:16:13-36
+25            android:label="@string/app_name" >
+25-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:15:13-45
+26            <intent-filter>
+26-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:17:13-21:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:18:17-69
+27-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:18:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:20:17-77
+29-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:20:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:23:9-25:61
+33            android:name="com.miu.curriculumvitae.ResultActivity"
+33-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:24:13-66
+34            android:label="@string/title_activity_result" />
+34-->C:\Users\zoljargalbyambasuren\AndroidStudioProjects\MobileDeviceAssignments\QuizApp\app\src\main\AndroidManifest.xml:25:13-58
+35    </application>
+36
+37</manifest>
